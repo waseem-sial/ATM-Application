@@ -16,19 +16,19 @@ Follow these steps to set up and run the project on your system.
 
 ### Prerequisites
 
-- **Turbo C++**: This project is specifically designed to work with Turbo C++.
+ **Turbo C++**: This project is specifically designed to work with Turbo C++.
 
 ### Setup Instructions
 
-1. **Clone the Repository**
+1. **Clone the Repository**:
 
     ```bash
    git clone https://github.com/waseem-sial/atm-turbocpp.git
-2. **Open Turbo C++**
+2. **Open Turbo C++**:
 Open Turbo C++ on your system.
-3. **Add Project Files**
+3. **Add Project Files**:
 Add main.cpp, User.cpp, and User.h to your Turbo C++ project.
-4. **Compile and Run**
+4. **Compile and Run**:
 Compile and run the project in Turbo C++.
 
 ### Project Structure
