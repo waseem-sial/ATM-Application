@@ -1,0 +1,33 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executable files
+*.exe
+*.out
+
+# Libraries
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE specific files
+.idea/
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.bak
+
+# Build directories
+/build/
