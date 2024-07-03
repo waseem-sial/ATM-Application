@@ -21,14 +21,14 @@ Follow these steps to set up and run the project on your system.
 ### Setup Instructions
 
 1. **Clone the Repository**:
-
+Clone this repository using the following link:
     ```bash
-   git clone https://github.com/waseem-sial/ATM-Application.git
-2. **Open Turbo C++**:
+     https://github.com/waseem-sial/ATM-Application.git
+3. **Open Turbo C++**:
 Open Turbo C++ on your system.
-3. **Add Project Files**:
+4. **Add Project Files**:
 Add main.cpp, User.cpp, and User.h to your Turbo C++ project.
-4. **Compile and Run**:
+5. **Compile and Run**:
 Compile and run the project in Turbo C++.
 
 ### Project Structure
