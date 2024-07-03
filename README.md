@@ -23,7 +23,7 @@ Follow these steps to set up and run the project on your system.
 1. **Clone the Repository**:
 
     ```bash
-   git clone https://github.com/waseem-sial/atm-turbocpp.git
+   git clone https://github.com/waseem-sial/ATM-Application.git
 2. **Open Turbo C++**:
 Open Turbo C++ on your system.
 3. **Add Project Files**:
