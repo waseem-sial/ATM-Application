@@ -1,33 +1,36 @@
-# Compiled object files
+# Object files
 *.o
 *.obj
 
-# Compiled executable files
+# Executable files
 *.exe
 *.out
 
-# Libraries
-*.lib
-*.dll
-*.so
-*.dylib
-
-# Logs and databases
-*.log
-*.sqlite
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Editor and IDE specific files
-.idea/
-.vscode/
-*.code-workspace
-
-# Temporary files
-*.tmp
+# Backup files
 *.bak
+*.tmp
 
-# Build directories
-/build/
+# Turbo C++ specific files
+*.tpu
+*.tpj
+*.tds
+
+# Log files
+*.log
+
+# Turbo C++ project files
+*.prj
+*.pjt
+
+# Intermediate files
+*.~*
+
+# User-specific files
+*.user
+*.session
+
+# Directories
+__history/
+__recovery/
+__saved/
+__backup/
